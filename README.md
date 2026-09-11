@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**dobello-coder/dobello-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<!--Profile Picture-->
+<img src="djbello.jpeg" alt="Dj Profile Picture" with="130" height="130" style"boder-radius: 50%; object-fit: cover; border: 3px solid #ffb6c1;" />
+<!-- Name & Bio -->
+<h1> Hi, I'm Desire (DJ) </h1>
+<p><I>Undergrad at ASU from Washington State</I></p>
+<p>
+  Welcome to my GitHub page!<br>
+  I do a lot of things for fun to make my life less chaotic.
+</p>
+---
+<h3>What do I do?</h3>
+<p>
+  <b>Building:</b> Cool projects & code </b>
+  <b>Learning:</b> New tech & frameworks </b>
+  <b>Vibe:</b> keeping chaos organized
+</p>
+</div>
